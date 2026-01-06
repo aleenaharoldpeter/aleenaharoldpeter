@@ -39,6 +39,7 @@ Most of my work lives at the intersection of
 - 🥇 **Udyam Mahila Ideathon** — Top **12 / 2,666 teams**
 - 💬 **Women Techmakers Tastemaker** — Transition Advisory Program
 
+
 ---
 
 ## 🧩 Tech Stack
@@ -120,7 +121,7 @@ Accessibility-first design · Clean visual hierarchy
 </details>
 
 <details>
-<summary><strong>🧠 Maze of Knowledge — Gamified JavaFX Quiz App</strong></summary>
+<summary><strong>🧠 <a href="https://github.com/aleenaharoldpeter/Maze_of_Knowledge">Maze of Knowledge — Gamified JavaFX Quiz App</a></strong></summary>
 <br/>
 
 **Type:** Desktop educational application
@@ -137,7 +138,7 @@ Accessibility-first design · Clean visual hierarchy
 - Offline-first reliability
 
 </details>
-
+<!--
 <details>
 <summary><strong>🚀 AI Job Search Chatbot — ASHA AI Hackathon</strong></summary>
 <br/>
@@ -154,9 +155,10 @@ Accessibility-first design · Clean visual hierarchy
 Flask · Supabase · Python · NLP
 
 </details>
+-->
 
 <details>
-<summary><strong>🌍 Carbon Footprint Estimator — Walmart Sparkathon</strong></summary>
+<summary><strong>🌍 <a href="https://github.com/aleenaharoldpeter/CarbonFootprint_Calculator_Walmart_Sparkathon_2025">Carbon Footprint Estimator — Walmart Sparkathon</a></strong></summary>
 <br/>
 
 **Features**
@@ -178,7 +180,7 @@ Flask · Supabase · Python · NLP
 <summary><strong>🧪 ETNA — Rust + Python ML Framework</strong></summary>
 <br/>
 
-**Contributions**
+[**Contributions**](https://github.com/etsi-ai/etna/issues?q=is%3Apr%20state%3Aclosed%20assignee%3Aaleenaharoldpeter)
 - Added comprehensive pytest coverage
 - Fixed model & preprocessor persistence bugs
 - Implemented native categorical feature support
@@ -198,7 +200,7 @@ Flask · Supabase · Python · NLP
 **Role:** Open Source Developer — Elite Coders  
 **Focus:** Observability, debugging, production readiness
 
-**Key Contributions**
+[**Key Contributions**](https://github.com/nupurmadaan04/SOUL_SENSE_EXAM/issues?q=is%3Apr+is%3Aclosed+assignee%3Aaleenaharoldpeter)
 - Introduced **structured, file-based logging** using Python’s `logging` module
 - Replaced print-based debugging with standardized log levels
 - Added detailed error traceability across GUI and persistence layers
@@ -221,7 +223,7 @@ Python · Logging · Error Handling · Debugging · Production Observability
 **Role:** Open Source Developer — Winter of Code Social (Web3 track)  
 **Focus:** Smart contracts, automation, engineering workflows
 
-**Key Contributions**
+[**Key Contributions**](https://github.com/AkshitTiwarii/carbonx/issues?q=is%3Apr%20state%3Aclosed%20assignee%3Aaleenaharoldpeter)
 - Built and integrated the **GreenProof** smart contract to log eco-friendly actions on-chain
 - Implemented Solidity contracts using **Remix IDE**
 - Designed contract logic for verifiable, tamper-resistant event recording
@@ -247,7 +249,7 @@ Solidity · Smart Contracts · GitHub Actions · Automation · Web3 Fundamentals
 <summary><strong>📊 AlgoVisualizer — Maintainer  (Hacktoberfest 2025/GirlScriptSummer of Code)</strong></summary>
 <br/>
 
-**Contributions**
+[**Contributions**](https://github.com/RhythmPahwa14/AlgoVisualizer/pulls?q=is%3Apr+assignee%3Aaleenaharoldpeter+is%3Aclosed)
 - Built Dynamic Programming visualizers
 - Added 80+ algorithmic quiz questions
 - Fixed broken production builds
@@ -262,7 +264,7 @@ Maintainer · Reviewer · Mentor
 <summary><strong>🎮 Old-School-Game</strong></summary>
 <br/>
 
-**Contributions**
+[**Contributions**](https://github.com/ajaynegi45/Old-School-Game/pulls?q=is%3Apr+is%3Aclosed+author%3Aaleenaharoldpeter)
 - Designed & shipped *Bullet Math*
 - Improved accessibility & UX
 - React + TypeScript changes merged upstream
@@ -277,7 +279,7 @@ Maintainer · Reviewer · Mentor
 **Role:** Open Source Contributor — Open Source Connect Initiative  
 **Focus:** Data pipeline architecture, maintainability, correctness
 
-**Key Contributions**
+[**Key Contributions**](https://github.com/Vaibhav2154/PyEveryday/issues?q=is%3Apr+is%3Aclosed+author%3Aaleenaharoldpeter)
 - Refactored and expanded the **Data Converter Toolkit** (PR #30)
 - Rebuilt core logic around **pandas DataFrames**, reducing ~35% LOC
 - Added data preview, row/column statistics, and input sanitization
