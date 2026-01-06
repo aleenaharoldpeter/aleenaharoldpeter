@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Active-success?style=for-the-badge">
+
+  
 </p>
 
 ---
@@ -234,11 +236,26 @@ Gopalan College of Engineering and Management
 <br/>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aleenaharoldpeter&label=Profile%20Views&color=6C63FF&style=flat" />
+</p>  
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aleenaharoldpeter&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+</details>
+<details>
+<summary><strong>🏅 Open Source Badges (Hacktoberfest)</strong></summary>
+<br/>
+
+<p align="center">
+  <a href="https://holopin.io/@aleenaharoldpeter">
+    <img src="https://holopin.me/aleenaharoldpeter" />
+  </a>
 </p>
 
 </details>
