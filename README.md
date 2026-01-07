@@ -166,7 +166,7 @@ React · Node.js · Express · MongoDB
 </details>
 
 ---
-
+<!--
 ## 🔓 Open Source Contributions
 
 <details>
@@ -218,6 +218,193 @@ React · Node.js · Express · MongoDB
 - Modular ingestion design
 
 </details>
+-->
+## 🔓 Open Source Contributions
+
+<details>
+<summary>
+  <strong>
+    ETNA — Rust + Python ML Framework
+    <img src="https://img.shields.io/badge/SWOC-2026-22c55e?style=flat-square" />
+  </strong>
+</summary>
+<br/>
+
+**Key Contributions**
+- Designed and implemented comprehensive `pytest` test coverage for preprocessing and utility modules, validating:
+  - Numeric scaling
+  - Missing-value handling
+  - Categorical encoding
+  - CSV ingestion
+- Resolved Python-only test isolation issues in a Rust-backed ML framework, improving CI reliability.
+- Fixed a critical **model persistence bug** by implementing save/load support for preprocessing state in ETNA’s Python API.
+  - Ensured trained models retain scaling statistics, categorical encodings, and label mappings after reload.
+  - Restored prediction consistency across sessions and validated correctness with end-to-end tests.
+- Added **native categorical feature support** to the ETNA Preprocessor:
+  - Automatic detection of string/object columns
+  - One-Hot Encoding with robust NaN handling (mean for numeric, mode/unknown for categorical)
+  - Dynamic feature-dimension updates for correct Rust core initialization
+  - Guaranteed encoding consistency during inference
+- Strengthened Python–Rust integration through unit tests and cross-language validation.
+
+**Tech:** Python, Pytest, ML Pipelines, Feature Engineering, Rust–Python Interop
+
+🔗 PRs:  
+- Pytest-based preprocessing coverage  
+- Preprocessor persistence (save & restore state)  
+- Categorical feature support with One-Hot Encoding  
+
+</details>
+
+
+<details>
+<summary>
+  <strong>
+    SoulSense — Open Source Developer
+    <img src="https://img.shields.io/badge/Elite%20Coders-Winter%20of%20Code-6366f1?style=flat-square" />
+  </strong>
+</summary>
+<br/>
+
+**Key Contributions**
+- Refactored a monolithic Python EQ assessment tool into a **modular, production-ready architecture** with a clean package structure.
+- Designed and implemented **normalized, ML-ready SQLite schemas** for:
+  - Question banks
+  - User responses
+  - Question-level metadata
+- Enabled fine-grained response storage to support analytics and future ML pipelines.
+- Introduced **structured logging and error traceability**, replacing print-based debugging and improving observability.
+- Implemented age-based question filtering while maintaining backward compatibility.
+- Built a comprehensive `pytest` test suite covering:
+  - Core logic
+  - Database migrations
+  - Utility modules
+- Ensured migration-safe schema evolution and non-breaking enhancements across releases.
+
+**Tech:** Python, SQLite, Database Design, Logging & Observability, Pytest, Modular Systems
+
+🔗 Contribution summary & PRs linked in repo
+
+</details>
+
+
+<details>
+<summary>
+  <strong>
+    CarbonX — Web3 Contributor
+    <img src="https://img.shields.io/badge/Winter%20of%20Code%20Social-2025-10b981?style=flat-square" />
+  </strong>
+</summary>
+<br/>
+
+**Key Contributions**
+- Built and integrated the **GreenProof smart contract** using Solidity and Remix to record eco-friendly actions on-chain.
+- Ensured contract correctness and deployability as part of the CarbonX Web3 pipeline.
+- Integrated GitHub Actions from the Marketplace to automate repository workflows:
+  - Copying issue labels to PRs
+  - Assigning PR authors automatically
+  - Managing stale issues
+
+**Tech:** Solidity, Smart Contracts, Remix IDE, GitHub Actions
+
+🔗 PRs:
+- GreenProof smart contract
+- GitHub Actions workflow automation
+
+</details>
+
+
+<details>
+<summary>
+  <strong>
+    AlgoVisualizer — Maintainer & Open Source Developer
+    <img src="https://img.shields.io/badge/GSSoC-2025-ec4899?style=flat-square" />
+    <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=flat-square" /> 
+  </strong>
+</summary>
+<br/>
+
+**Key Contributions**
+- Maintained a large-scale educational platform during **Hacktoberfest & GSSoC '25**:
+  - Issue triage
+  - PR reviews
+  - Contributor mentoring
+  - Merge conflict resolution
+- Designed and implemented **interactive visualizers**:
+  - Dynamic Programming (LCS, Coin Change, Matrix Chain)
+  - Hashing (insert/search/delete with animations)
+- Implemented advanced sorting algorithms with full animations:
+  - TimSort
+  - IntroSort
+- Restored missing algorithms after a major refactor and modularized the codebase for long-term maintainability.
+- Fixed a critical production build failure (`Home.jsx`), unblocking 30+ contributors.
+- Expanded the quiz platform with **80+ algorithmic questions** across:
+  - DP, Backtracking, Divide & Conquer
+  - Trees, Knapsack, TSP
+  - Game Search (Minimax, Alpha-Beta, MCTS)
+- Improved UI/UX clarity and documentation to enhance accessibility and learning outcomes.
+
+**Tech:** JavaScript, React, Data Structures & Algorithms, Visualization, OSS Maintenance
+
+🔗 Representative PRs:
+- DP Visualizer
+- TimSort & IntroSort animations
+- Quiz platform expansion
+- Production build fix
+
+</details>
+
+<details>
+<summary>
+  <strong>
+    PyEveryday — Open Source Contributor
+    <img src="https://img.shields.io/badge/OSCI-2025-0ea5e9?style=flat-square" />
+  </strong>
+</summary>
+<br/>
+
+**Key Contributions**
+- Refactored and expanded the Data Converter Toolkit using pandas-based pipelines.
+- Reduced codebase size by ~35% while improving readability and maintainability.
+- Added preview functionality, row/column statistics, and data sanitization.
+- Proposed and designed a **modular ingestion architecture**:
+  - DataReader
+  - DataProcessor
+  - DataConverter
+  - DataWriter
+- Identified duplicated chunking logic and proposed unified read methods for consistent data handling.
+- Collaborated with maintainers and contributors under OSCI ’25.
+
+**Tech:** Python, pandas, Data Engineering, Modular Architecture
+
+🔗 PRs & architectural proposals linked in repo
+
+</details>
+
+
+<details>
+<summary>
+  <strong>
+    Old-School-Game — Open Source Contributor
+    <img src="https://img.shields.io/badge/GSSoC-2025-ec4899?style=flat-square" />
+  </strong>
+</summary>
+<br/>
+
+**Key Contributions**
+- Built a time-based arithmetic game with multi-level difficulty (Amateur → Normal → Veteran).
+- Implemented dynamic scoring, attempt tracking, and instant validation.
+- Designed Veteran-mode hints using mental-math techniques.
+- Enhanced UI with responsive layouts, accessible inputs, and keyboard navigation.
+- Incorporated CodeRabbit feedback to improve accessibility and styling.
+- Proposed and implemented **Bullet Math**, a fast-paced cognitive game backed by research on brain training.
+
+**Tech:** TypeScript, React, Accessibility, Game Design, UI/UX
+
+🔗 PRs & proposal links in repo
+
+</details>
+
 
 ---
 
