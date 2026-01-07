@@ -354,6 +354,31 @@ React · Node.js · Express · MongoDB
 
 </details>
 
+
+
+<details>
+<summary>
+  <strong>
+    Old-School-Game — Open Source Contributor
+    <img src="https://img.shields.io/badge/GSSoC-2025-ec4899?style=flat-square" />
+  </strong>
+</summary>
+<br/>
+
+**Key Contributions**
+- Built a time-based arithmetic game with multi-level difficulty (Amateur → Normal → Veteran).
+- Implemented dynamic scoring, attempt tracking, and instant validation.
+- Designed Veteran-mode hints using mental-math techniques.
+- Enhanced UI with responsive layouts, accessible inputs, and keyboard navigation.
+- Incorporated CodeRabbit feedback to improve accessibility and styling.
+- Proposed and implemented **Bullet Math**, a fast-paced cognitive game backed by research on brain training.
+
+**Tech:** TypeScript, React, Accessibility, Game Design, UI/UX
+
+🔗 PRs & proposal links in repo
+
+</details>
+
 <details>
 <summary>
   <strong>
@@ -380,31 +405,6 @@ React · Node.js · Express · MongoDB
 🔗 PRs & architectural proposals linked in repo
 
 </details>
-
-
-<details>
-<summary>
-  <strong>
-    Old-School-Game — Open Source Contributor
-    <img src="https://img.shields.io/badge/GSSoC-2025-ec4899?style=flat-square" />
-  </strong>
-</summary>
-<br/>
-
-**Key Contributions**
-- Built a time-based arithmetic game with multi-level difficulty (Amateur → Normal → Veteran).
-- Implemented dynamic scoring, attempt tracking, and instant validation.
-- Designed Veteran-mode hints using mental-math techniques.
-- Enhanced UI with responsive layouts, accessible inputs, and keyboard navigation.
-- Incorporated CodeRabbit feedback to improve accessibility and styling.
-- Proposed and implemented **Bullet Math**, a fast-paced cognitive game backed by research on brain training.
-
-**Tech:** TypeScript, React, Accessibility, Game Design, UI/UX
-
-🔗 PRs & proposal links in repo
-
-</details>
-
 
 ---
 
