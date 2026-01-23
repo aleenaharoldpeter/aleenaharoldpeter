@@ -20,6 +20,7 @@
 
 ## 🔎 TL;DR (for recruiters & maintainers)
 
+- **WECode 2026 Scholarship Recipient** (Harvard-hosted global conference)
 - Open-source **maintainer & contributor** (GSSoC, Hacktoberfest, OSCI, SWOC)
 - **Top 2.6% contributor** — GSSoC 2025
 - Strong in **Python, backend systems, data pipelines, testing, architecture**
