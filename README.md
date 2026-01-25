@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Aleena Harold Peter**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Information+Science+Engineering+Student;Open-Source+Contributor+%7C+Project+Admin;Data+%26+Knowledge-Driven+Systems+Builder;Learning+Deeply%2C+Building+Thoughtfully" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=750&lines=Information+Science+Engineering+Student;Open-Source+Contributor+%7C+Project+Maintainer;Data+%26+Knowledge-Driven+Systems+Builder;Learning+Deeply%2C+Building+Thoughtfully" />
 </p>
 
 <p align="center">
