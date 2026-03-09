@@ -22,7 +22,7 @@
 
 - **WECode 2026 Scholarship Recipient and Attendee(Virtually)** (Harvard-hosted global conference)
 - Open-source **maintainer & contributor** (GSSoC, Hacktoberfest, OSCI, SWOC)
-- **Top 2.6% contributor** — GSSoC 2025
+- **Top 2.6% contributor** — GSSoC(GirlScript Summer of Code) 2025
 - Strong in **Python, backend systems, data pipelines, testing, architecture**
 - Experience with **production-grade & research-adjacent systems**
 - Values **maintainability, correctness, and long-term system health**
