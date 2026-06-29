@@ -20,41 +20,42 @@
 
 ## 🔎 TL;DR (for recruiters & maintainers)
 
-- **WECode 2026 Scholarship Recipient and Attendee(Virtually)** (Harvard-hosted global conference)
-- Open-source **maintainer & contributor** (GSSoC, Hacktoberfest, OSCI, SWOC)
-- **Top 2.6% contributor** — GSSoC(GirlScript Summer of Code) 2025
-- Strong in **Python, backend systems, data pipelines, testing, architecture**
-- Experience with **production-grade & research-adjacent systems**
-- Values **maintainability, correctness, and long-term system health**
+- 🌍 **#semanticClimate Intern**
+- 🎓 **Stanford Code in Place Section Leader (Volunteer)**
+- 🛠 **Open Source Maintainer & Contributor** (GSSoC, SWOC, OSCI, ECWoC, Hacktoberfest)
+- 🤖 Building **backend systems, data pipelines, AI-powered applications & developer tooling**
+- 📚 Interested in **Software Engineering, Data Engineering and Applied AI**
 
 ---
 
 ## 🧠 About Me
 
-I’m an **Information Science & Engineering undergraduate** at  
-**Gopalan College of Engineering and Management (Bengaluru)**.
-
-I enjoy building systems that:
-- turn **messy data into structure**
-- emphasize **clarity over hype**
-- prioritize **learning, maintainability, and impact**
-
-Most of my work lives at the intersection of  
-**Python-based data pipelines, visualization, backend systems, and applied AI/ML**,  
-often in **research-adjacent or social-impact contexts**.
+🎓 Information Science & Engineering undergraduate passionate about building software systems that make complex information easier to understand and use. \
+💻 Interested in software engineering, backend development, data engineering, open source, and applied AI. \
+🛠 Through internships, technical projects, and open-source contributions, I've worked on backend systems, developer tooling, testing infrastructure, data pipelines, educational technology, and knowledge-driven applications. \
+🎯 Passionate about designing reliable systems that prioritize maintainability, correctness, and long-term usability.
 
 ---
 
 ## 🚀 Highlights
-
-- 🌱 Open-source contributor across **GSSoC, Hacktoberfest, WOC / OSCI, Social Winter of Code**
-- 🏆 **GSSoC 2025** — Ranked **Top 2.6% (91 / 3,417 contributors)**
-- 🛠 **Hacktoberfest 2025** — Maintainer & Super Contributor (**AlgoVisualizer**)
-- 🧪 Refactored & tested **Rust-backed ML frameworks (ETNA)** via Python
-- 🥇 **Udyam Mahila Ideathon** — Top **12 / 2,666 teams**
+- 🌍 **#semanticClimate Intern**
+- 🎓 **Stanford Code in Place Section Leader (Volunteer)**
+- 🏆 **Top 2.6% Contributor — GSSoC 2025** 
+-  🛠 **Maintainer — AlgoVisualizer** (Hacktoberfest & GSSoC)
+- 🧪 **Contributor to ETNA** (Rust + Python ML Framework)
+- 🥇 **Top 12 / 2,666 teams** — Udyam Mahila Ideathon
+- 🎖 **WECode 2026 Scholarship Recipient**
 - 💬 **Women Techmakers Tastemaker** — Transition Advisory Program
 
 ---
+
+## 🌱 Currently 
+- 🌍 **Software Engineering Intern** at **#semanticClimate**
+- 📖 Exploring **Retrieval-Augmented Generation (RAG)**
+- 🧠 Building **AI-powered knowledge systems**
+- ⚙️ Learning **distributed backend systems**
+- 🤝 Contributing to **open source**
+
 <!--
 ## 🧩 Tech Stack
 
@@ -220,7 +221,95 @@ React · Node.js · Express · MongoDB
 
 </details>
 -->
+## 💼 Experience
+
+<details>
+<summary>
+  <strong>
+    🌍 #semanticClimate — Software Engineering Intern
+  </strong>
+</summary>
+<br/>
+
+**Key Responsibilities & Contributions**
+
+* Contributed to the development of an **AI-powered climate education platform**, helping improve accessibility to climate knowledge.
+* Improved **system architecture** and **code maintainability** through refactoring and modular design.
+* Built and enhanced **frontend features**, improving usability and user experience.
+* Strengthened **technical documentation**, making the project easier to understand and maintain.
+* Collaborated on **knowledge-driven systems** integrating modern AI and software engineering practices.
+
+**Tech:** Python, JavaScript, React, AI Applications, Documentation, Software Engineering
+
+</details>
+
+<details>
+<summary>
+  <strong>
+    🎓 Stanford Code in Place — Section Leader (Volunteer)
+  </strong>
+</summary>
+<br/>
+
+**Key Responsibilities**
+
+* Led weekly **Python programming sections** for learners from around the world.
+* Mentored students through **debugging, problem-solving, and programming fundamentals**.
+* Fostered an inclusive and collaborative learning environment while supporting students with coding challenges.
+* Strengthened communication, leadership, and technical mentoring skills through one-on-one guidance and group discussions.
+
+**Tech:** Python, Teaching, Mentoring, Debugging, Problem Solving, Technical Communication
+
+</details>
+
+---
+
 ## 🔓 Open Source Contributions
+
+<details> <summary> <strong> Sugarizer (Chess Activity) — Open Source Contributor <img src="https://img.shields.io/badge/Sugar%20Labs-2026-f59e0b?style=flat-square" /> </strong> </summary> <br/>
+
+Key Contributions
+
+Improved the Chess tutorial by replacing text-only explanations with animated visual demonstrations for pawn, rook, knight, bishop, queen, and king movements.
+Designed and integrated lightweight GIF-based animations, making chess fundamentals easier for beginners to understand.
+Refactored tutorial styling and integrated the new learning experience into the Sugarizer Chess activity.
+Collaborated closely with maintainers through issue discussions, code review, and pull request iterations.
+Successfully delivered and merged the enhancement after community review and maintainer feedback.
+
+Tech: JavaScript, CSS, UI/UX, Educational Software, Git, GitHub, Image Processing
+
+🔗 Representative PRs:
+
+Animated chess tutorial
+Tutorial UI & CSS improvements
+
+</details>
+
+<details> <summary> <strong> Achievement Management System — Open Source Contributor <img src="https://img.shields.io/badge/Open%20Source%20Connect-2026-0ea5e9?style=flat-square" /> </strong> </summary> <br/>
+
+Key Contributions
+
+Centralized Flask configuration by migrating hard-coded settings into a structured config.py with environment-based overrides.
+Added comprehensive pytest coverage using Flask's test client for:
+Authentication flows
+Protected routes
+Database initialization
+Improved deployment portability, security, and maintainability through configuration refactoring.
+Proposed contributor workflow improvements by designing:
+Pull Request templates
+Issue templates
+OSCG26-specific repository labels
+Helped improve contributor onboarding and long-term repository maintainability.
+
+Tech: Python, Flask, Pytest, Application Configuration, Environment Variables, Testing, Git
+
+🔗 Representative PRs:
+
+Centralized Flask configuration
+Authentication & route test suite
+Repository workflow improvements
+
+</details>
 
 <details>
 <summary>
