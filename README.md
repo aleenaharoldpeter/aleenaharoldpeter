@@ -502,7 +502,7 @@ Repository workflow improvements
 
 🎓 **B.E. — Information Science & Engineering**  
 Gopalan College of Engineering and Management  
-**CGPA:** 9.44 / 10
+**CGPA:** 9.32 / 10 (as of sixth semester)
 
 ---
 
