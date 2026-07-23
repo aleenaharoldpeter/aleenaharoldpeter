@@ -20,7 +20,7 @@
 
 ## 🔎 TL;DR (for recruiters & maintainers)
 
-- 🌍 **#semanticClimate Intern**
+- 🌍 **ex - #semanticClimate Intern**
 - 🎓 **Stanford Code in Place Section Leader (Volunteer)**
 - 🛠 **Open Source Maintainer & Contributor** (GSSoC, SWOC, OSCI, ECWoC, Hacktoberfest)
 - 🤖 Building **backend systems, data pipelines, AI-powered applications & developer tooling**
