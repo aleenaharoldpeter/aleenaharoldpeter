@@ -20,6 +20,8 @@
 
 ## 🔎 TL;DR (for recruiters & maintainers)
 
+- 🎖 **CrowdStrike NextGen Scholar**
+- 📝 **Published Researcher at CIE 53** (1 First-Author Paper [#139], 1 Co-Author Paper [#196])
 - 🌍 **ex - #semanticClimate Intern**
 - 🎓 **Stanford Code in Place Section Leader (Volunteer)**
 - 🛠 **Open Source Maintainer & Contributor** (GSSoC, SWOC, OSCI, ECWoC, Hacktoberfest)
@@ -38,6 +40,10 @@
 ---
 
 ## 🚀 Highlights
+- 🎖 **CrowdStrike NextGen Scholar** — Awarded prestigious global tech scholarship recognition.
+- 📝 **CIE 53 Published Researcher** — Authored two accepted peer-reviewed papers at the 53rd International Conference on Computers & Industrial Engineering:
+  - **First Author & Presenter (Paper #139)**: Led research design, execution, and conference presentation.
+  - **Co-Author (Paper #196)**: Collaborated with lead author Madhusmita Das on research in the Robust Optimization track. 
 - 🌍 **#semanticClimate Intern**
 - 🎓 **Stanford Code in Place Section Leader (Volunteer)**
 - 🏆 **Top 2.6% Contributor — GSSoC 2025** 
